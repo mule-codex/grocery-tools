@@ -3,6 +3,7 @@ Description of the Project:
 This pack of tools is designed to seamlessly transition anyone from selling products in a brick-and-mortar store to having an online store with minimal effort. The tools focus on simplifying the process of establishing and managing an online store, ensuring accessibility for users with varying levels of technical expertise.
 
 Key Features:
+
 #Product Display
 - Intuitive interface for adding and managing products.
 - Option to include detailed product descriptions, images, prices, and categories.
